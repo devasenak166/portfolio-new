@@ -11,7 +11,7 @@ File: Layout CSS
 
 @import url("fontawesome-free/css/fontawesome-all.min.css");
 @import url("framework.css");
-
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/brands.min.js");
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row0, .row0 a{}
